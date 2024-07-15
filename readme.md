@@ -105,6 +105,12 @@ WD-ProjectName
 └─ readme.md
 ```
 
+## Website and Project Repositories Link
+
+https://seanmojica17.github.io/WD-Final/
+
+https://github.com/Seanmojica17/WD-Final
+
 ## Resources
 
 <!-- TODO: Add References -->
@@ -114,3 +120,7 @@ WD-ProjectName
 | Landing Page  | Idea and Design | https://youtu.be/Slxdo0Dqxlk?si=LgSODX1lk-DXkvzv |
 | Contact Form | Idea and Design | https://youtu.be/opbtRRSHGnk?si=R3kLt_dsY9ClYEa4 |
 | Profile | Idea and Design | https://www.iamrohit.in/html-css-resume-templates/ |
+
+## Wakatime
+
+https://wakatime.com/projects/WD-Final?start=2024-07-09&end=2024-07-15
